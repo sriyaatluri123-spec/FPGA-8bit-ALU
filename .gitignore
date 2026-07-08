@@ -1,0 +1,19 @@
+# Vivado
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.Xil/
+
+*.jou
+*.log
+*.str
+*.backup
+*.wdb
+*.pb
+*.dmp
+
+# Temporary
+*.tmp
+*.bak
