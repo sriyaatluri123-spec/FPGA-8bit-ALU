@@ -87,11 +87,11 @@ The design was synthesized, implemented and tested on the Digilent Basys 3 FPGA 
 
 #### Demo 1
 
-![FPGA Demo 1](images/fpga_demo_1.jpg)
+![FPGA Demo 1](images/fpga_demo_1.jpeg)
 
 #### Demo 2
 
-![FPGA Demo 2](images/fpga_demo_2.jpg)
+![FPGA Demo 2](images/fpga_demo_2.jpeg)
 
 ---
 
